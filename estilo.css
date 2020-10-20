@@ -2,7 +2,7 @@ body {
       font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
       line-height: 1.8;
       color: #818181;
-	  background-color: #D5F0BD;
+	  background-color: #F1FAE8;
 }
 h1 {
     color: #000;
@@ -22,8 +22,7 @@ table{
 th,td{
     border: 0.07em solid #000;
 }
-img {	
-	display: auto;
+img {
 	margin: auto;
 	float: right;
 	max-width: 50%;
