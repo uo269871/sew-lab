@@ -1,0 +1,37 @@
+body {
+      font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
+      line-height: 1.8;
+      color: #818181;
+	  background-color: #D5F0BD;
+}
+h1 {
+    color: #000;
+    text-transform: uppercase;
+    padding: 50px 25px;
+    text-align: center;     
+	}
+h2{
+	color: #000;
+    text-transform: uppercase;
+    padding: 12px 25px;
+    text-align: left;  
+}
+table{
+    border: 2px solid #000;
+}
+th,td{
+    border: 1px solid #000;
+}
+img {	
+	display: auto;
+	margin: auto;
+	float: right;
+	max-width: 50%;
+	height: auto;
+}
+a:link{
+        color: #FF5733;
+  }
+a:visited{
+        color: black;
+}

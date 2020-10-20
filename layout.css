@@ -1,0 +1,15 @@
+#index{
+	display: flex;
+	flex-flow: row;
+}
+.imagen{
+	display: flex;
+	float: right;
+	flex-flow: column;
+}
+
+.texto{
+	display: flex;
+	float: left;
+	flex-flow: column;
+}
