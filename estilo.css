@@ -28,6 +28,10 @@ img {
 	max-width: 50%;
 	height: auto;
 }
+
+a{
+	font: 400 1.5em Tahoma, sans-serif;
+}
 a:link{
         color: #991C00;
   }
