@@ -1,8 +1,8 @@
 body {
       font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
       line-height: 1.8;
-      color: #FFFFFF;
-	  background-color: #F5FFF1;
+      color: #	;
+	  background-color: #E8F7EC;
 }
 h1 {
     color: #000;
@@ -29,7 +29,7 @@ img {
 	height: auto;
 }
 a:link{
-        color: #FF5733;
+        color: #991C00;
   }
 a:visited{
         color: black;
