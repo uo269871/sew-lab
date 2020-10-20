@@ -33,8 +33,10 @@ a{
 	font: 400 1.5em Tahoma, sans-serif;
 }
 a:link{
-        color: #991C00;
+	font: 400 1.5em Tahoma, sans-serif;
+    color: #991C00;
   }
 a:visited{
-        color: black;
+	font: 400 1.5em Tahoma, sans-serif;
+    color: black;
 }
